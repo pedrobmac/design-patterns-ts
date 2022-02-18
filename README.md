@@ -18,7 +18,7 @@
 
 * **Adapter** - Converter a interface de uma classe em outra interface esperada pelos clientes. O Adapter permite que certas classes trabalhem em conjunto, o que de outra forma seria impossível, por causa de suas interfaces incompatíveis.
 
-* **Bridge** - Separar uma abstração da sua implementação, de modo que as duas possam variar independentemente.
+* **Bridge** - Separar uma abstração da sua implementação, de modo que as duas possam variar independentemente. (Implementação parecida com Adapter, mas com outra intenção.)
 
 * **Decorator** - Atribuir responsabilidades adicionais a um objeto dinamicamente. Os Decorators fornecem uma alternativa flexível às subclasses para extensão de funcionalidades.
 
