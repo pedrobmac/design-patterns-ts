@@ -20,7 +20,7 @@
 
 * **Bridge** - Separar uma abstração da sua implementação, de modo que as duas possam variar independentemente. (Implementação parecida com Adapter, mas com outra intenção.)
 
-* **Decorator** - Atribuir responsabilidades adicionais a um objeto dinamicamente. Os Decorators fornecem uma alternativa flexível às subclasses para extensão de funcionalidades.
+* **Decorator** - Agregar responsabilidades adicionais a um objeto dinamicamente. Os Decorators fornecem uma alternativa flexível às subclasses para extensão de funcionalidades. (Implementação parecida com Composite, mas com outra intenção.)
 
 * **Façade** - Fornecer uma interface unificada para um conjunto de interfaces em um subsistema. O Façade define uma interface de nível mais alto que torna o subsistema mais fácil de usar.
 
