@@ -24,6 +24,6 @@
 
 * **Façade** - Fornecer uma interface unificada para um conjunto de interfaces em um subsistema. O Façade define uma interface de nível mais alto que torna o subsistema mais fácil de usar.
 
-* **Proxy** - Fornecer um objeto representante (surrogate), ou um marcador de outro objeto para controlar o acesso ao mesmo.
+* **Proxy** - Fornecer um objeto substituto ou um marcador de localização para outro objeto, a fim de controlar o acesso ao mesmo (implementação similar ao Composite e Decorator, mas com outra intenção).
 
 * **Flyweight** - Usar compartilhamento para suportar grandes quantidades de objetos de granularidade fina, de maneira eficiente.
