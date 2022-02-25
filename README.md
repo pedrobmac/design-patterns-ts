@@ -26,4 +26,4 @@
 
 * **Proxy** - Fornecer um objeto substituto ou um marcador de localização para outro objeto, a fim de controlar o acesso ao mesmo (implementação similar ao Composite e Decorator, mas com outra intenção).
 
-* **Flyweight** - Usar compartilhamento para suportar grandes quantidades de objetos de granularidade fina, de maneira eficiente.
+* **Flyweight** - Usar compartilhamento para suportar grandes quantidades de objetos de granularidade fina, de maneira eficiente. Visa economizar memória RAM, mas adiciona complexidade à implementação.
