@@ -39,7 +39,7 @@ Os padrões de projeto comportamentais se preocupam com algoritmos e a atribuiç
 
 * **Command** - encapsula uma solicitação como um objeto, desta forma permitindo que você parametrize clientes com diferentes solicitações, enfileire ou registre (log) solicitações e suporte operações que podem ser desfeitas. (de certa forma, é a versão orientada a objeto de uma função callback)
 
-* **Memento** - sem violar a encapsulação, captura e externaliza um estado interno de um objeto, de modo que o mesmo possa posteriormente ser restaurado para este estado.
+* **Memento** - sem violar o encapsulamento, captura e externaliza um estado interno de um objeto, de modo que o mesmo possa posteriormente ser restaurado para este estado.
 
 * **State** - permite que um objeto altere seu comportamento quando seu estado interno muda. O objeto parecerá ter mudado sua classe.
 
