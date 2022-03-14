@@ -51,8 +51,9 @@ Os padrões de projeto comportamentais se preocupam com algoritmos e a atribuiç
 
 * **Observer** - define uma dependência um para muitos entre objetos, de modo que, quando um objeto muda de estado, todos os seus dependentes são automaticamente notificados e atualizados (parecido com uma lista de subscrição).
 
-* **Iterator** - fornece uma maneira de acessar sequencialmente os elementos de um objeto agregado sem expor sua representação subjacente.
-
 * **Visitor** - representa uma operação a ser executada sobre os elementos da estrutura de um objeto. O visitor permite que você defina uma nova operação sem mudar as classes dos elementos sobre os quais opera.
 
-* **Interpreter** - dada uma linguagem, define um representação para sua gramática juntamente com um interpretador que usa a representação para interpretar sentenças nesta linguagem.
+* **Iterator** - fornece uma maneira de acessar sequencialmente os elementos de um objeto agregado sem expor sua representação subjacente.
+
+
+[Fonte](https://github.com/luizomf/design-patterns-typescript)
