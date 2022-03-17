@@ -53,7 +53,6 @@ Os padrões de projeto comportamentais se preocupam com algoritmos e a atribuiç
 
 * **Visitor** - representa uma operação a ser executada sobre os elementos da estrutura de um objeto. O visitor permite que você defina uma nova operação sem mudar as classes dos elementos sobre os quais opera.
 
-* **Iterator** - fornece uma maneira de acessar sequencialmente os elementos de um objeto agregado sem expor sua representação subjacente.
-
+* **Iterator** - fornece uma maneira de acessar sequencialmente os elementos de um objeto agregado sem expor sua representação subjacente. Ou seja, delega para um outro objeto (ou mais) a responsabilidade de saber iterar uma estrutura de dados específica.
 
 [Fonte](https://github.com/luizomf/design-patterns-typescript)
